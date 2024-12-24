@@ -1,6 +1,6 @@
-import Header from '../components/Header';
-import Footer from '../components/Footer';
-import Navbar from '../components/Navbar';
+import Header from '@/../app/components/Header';
+import Footer from '@/../app/components/Footer';
+import Navbar from '@/../app/components/Navbar';
 
 const App = ({ Component, pageProps }) => {
   return (
